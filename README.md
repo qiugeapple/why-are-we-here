@@ -14,4 +14,4 @@ During my graduation project, I further observed my peers’ real‑world strugg
 Therefore, systematic learning of programming alongside AI is essential. It fills technical gaps, breaks the mental limits imposed by print‑centred design, empowers me to retain creative control, builds a translation channel for my design thinking, and enables deeper, implementable and innovative design work. Learning programming is not about competing with AI at code production; it is about understanding media so I can guide technology rather than be limited by it.
 
 ## References
-Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
+Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.https://books.google.com.hk/books?id=qGx-_VpaJKUC&lpg=PR9&ots=u_Hqx8AKoR&dq=Technology%20and%20the%20lifeworld%20Ihde%201990&lr&hl=zh-CN&pg=PR4#v=onepage&q=Technology%20and%20the%20lifeworld%20Ihde%201990&f=false
