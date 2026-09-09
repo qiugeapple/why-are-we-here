@@ -7,3 +7,4 @@ I used DouBao as an AI assistant during this assignment. My main uses of the too
 - Offering suggestions on essay organisation and paragraph transitions.
 - Assisting with translating my final Chinese manuscript into academic English for the README submission.
 - Searching for academic source information, sorting reference details and formatting citations in APA style.
+- Revising, polishing and refining the wording of my written document to improve readability.
